@@ -91,7 +91,7 @@ body{
 }
 .hr:before{
     content: '';
-    position: absolute;
+    position: absolute; 
     width: 8px;
     height: 80px;
     background: #ff105e;
